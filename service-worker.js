@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://.github.io/csb-j647m1/precache-manifest.222efac0b1de8d2c03772e19cd41f91e.js"
+  "https://mfmezger.github.io/csb-j647m1/precache-manifest.92e9328748b48edddbc0e26e5551bae1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://.github.io/csb-j647m1/index.html", {
+workbox.routing.registerNavigationRoute("https://mfmezger.github.io/csb-j647m1/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
