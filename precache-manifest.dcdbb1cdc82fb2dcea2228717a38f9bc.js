@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c87701c1b6bcefaa68c5",
-    "url": "https://mfmezger.github.io/csb-j647m1/static/css/main.3544bf32.chunk.css"
+    "revision": "68e5c488b8a302a2820e",
+    "url": "https://mfmezger.github.io/csb-j647m1/static/css/main.26163628.chunk.css"
   },
   {
-    "revision": "c87701c1b6bcefaa68c5",
-    "url": "https://mfmezger.github.io/csb-j647m1/static/js/main.c87701c1.chunk.js"
+    "revision": "68e5c488b8a302a2820e",
+    "url": "https://mfmezger.github.io/csb-j647m1/static/js/main.68e5c488.chunk.js"
   },
   {
     "revision": "acba6caf7d6d987393b1",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://mfmezger.github.io/csb-j647m1/static/js/runtime~main.c0fad344.js"
   },
   {
-    "revision": "f106d025ec2038d00e68109d96f37bec",
+    "revision": "c914e27a0ed7c4ebadeaa6961d796f5b",
     "url": "https://mfmezger.github.io/csb-j647m1/index.html"
   }
 ];
